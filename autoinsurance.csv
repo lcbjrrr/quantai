@@ -1,0 +1,51 @@
+us_state,state,capital,pricelevel,Y2021,Y2022,Y2023,pop,lat,lon,Region,Division
+MI,Michigan,Lansing,E,5740,4386,2352,"10,077,331",42.733635,-84.555328,Midwest,East North Central
+RI,Rhode Island,Providence,E,1375,1197,1200,"1,097,379",41.830914,-71.414963,Northeast,New England
+NV,Nevada,Carson City,E,1033,1138,1164,"3,104,614",39.163914,-119.76612,West,Mountain
+FL,Florida,Tallahassee,E,2361,2072,1092,"21,538,187",30.438118,-84.281296,South,South Atlantic
+NJ,New Jersey,Trenton,E,812,979,1032,"9,288,994",40.220596,-74.769913,Northeast,Middle Atlantic
+DE,Delaware,Dover,E,1200,1183,1008,"989,948",39.157307,-75.519722,South,South Atlantic
+CT,Connecticut,Hartford,H,1165,1041,960,"3,605,944",41.764046,-72.682198,Northeast,New England
+OR,Oregon,Salem,H,1050,996,948,"4,237,256",44.938461,-123.0304,West,Pacific
+NY,New York,Albany,H,1373,1085,924,"20,201,249",42.652843,-73.757874,Northeast,Middle Atlantic
+MD,Maryland,Annapolis,H,1081,1044,900,"6,177,224",38.978764,-76.490936,South,South Atlantic
+KY,Kentucky,Frankfort,H,1549,1027,876,"4,505,836",38.186722,-84.875374,South,East South Central
+LA,Louisiana,Baton Rouge,H,1128,1002,876,"4,657,757",30.457069,-91.187393,South,West South Central
+UT,Utah,Salt Lake City,M,909,793,792,"3,271,616",40.777477,-111.88824,West,Mountain
+AZ,Arizona,Phoenix,M,1234,902,768,"7,151,502",33.448143,-112.09696,West,Mountain
+MA,Massachusetts,Boston,M,721,784,732,"7,029,917",42.358162,-71.063698,Northeast,New England
+IL,Illinois,Springfield,M,854,717,720,"12,812,508",39.798363,-89.654961,Midwest,East North Central
+SC,South Carolina,Columbia,M,939,752,720,"5,118,425",34.000343,-81.033211,South,South Atlantic
+CO,Colorado,Denver,M,865,791,720,"5,773,714",39.739227,-104.98486,West,Mountain
+HI,Hawaii,Honolulu,M,644,637,684,"1,455,271",21.307442,-157.85738,West,Pacific
+MN,Minnesota,Saint Paul,M,1043,721,684,"5,706,494",44.955097,-93.102211,Midwest,West North Central
+MO,Missouri,Jefferson City,M,690,648,672,"6,154,913",38.579201,-92.172935,Midwest,West North Central
+NH,New Hampshire,Concord,M,745,598,648,"1,377,529",43.206898,-71.537994,Northeast,New England
+WA,Washington,Olympia,M,569,593,636,"7,705,281",47.035805,-122.90501,West,Pacific
+GA,Georgia,Atlanta,M,683,727,624,"10,711,908",33.749027,-84.388229,South,South Atlantic
+CA,California,Sacramento,M,614,613,600,"39,538,223",38.576668,-121.49363,West,Pacific
+VA,Virginia,Richmond,M,618,555,600,"8,631,393",37.538857,-77.43364,South,South Atlantic
+OK,Oklahoma,Oklahoma City,M,611,584,600,"3,959,353",35.492207,-97.503342,South,West South Central
+AL,Alabama,Montgomery,M,669,641,600,"5,024,279",32.377716,-86.300568,South,East South Central
+WV,West Virginia,Charleston,M,627,650,600,"1,793,716",38.336246,-81.612328,South,South Atlantic
+TX,Texas,Austin,M,926,666,576,"29,145,505",30.27467,-97.740349,South,West South Central
+NC,North Carolina,Raleigh,M,445,492,552,"10,439,388",35.78043,-78.639099,South,South Atlantic
+MS,Mississippi,Jackson,M,734,657,540,"2,961,279",32.303848,-90.182106,South,East South Central
+NM,New Mexico,Santa Fe,M,570,550,540,"2,117,522",35.68224,-105.93973,West,Mountain
+AR,Arkansas,Little Rock,M,554,556,540,"3,011,524",34.746613,-92.288986,South,West South Central
+KS,Kansas,Topeka,L,583,549,492,"2,937,880",39.048191,-95.677956,Midwest,West North Central
+OH,Ohio,Columbus,L,528,482,492,"11,799,448",39.961346,-82.999069,Midwest,East North Central
+AK,Alaska,Juneau,L,491,492,492,"733,391",58.301598,-134.42021,West,Pacific
+NE,Nebraska,Lincoln,L,487,552,480,"1,961,504",40.808075,-96.699654,Midwest,West North Central
+IN,Indiana,Indianapolis,L,488,489,480,"6,785,528",39.768623,-86.162643,Midwest,East North Central
+PA,Pennsylvania,Harrisburg,L,587,497,480,"13,002,700",40.264378,-76.883598,Northeast,Middle Atlantic
+ME,Maine,Augusta,L,445,452,468,"1,362,359",44.307167,-69.781693,Northeast,New England
+TN,Tennessee,Nashville,L,509,514,444,"6,910,840",36.16581,-86.784241,South,East South Central
+MT,Montana,Helena,L,466,502,444,"1,084,225",46.585709,-112.01842,West,Mountain
+WI,Wisconsin,Madison,L,515,396,432,"5,893,718",43.074684,-89.384445,Midwest,East North Central
+ND,North Dakota,Bismarck,L,512,422,408,"779,094",46.82085,-100.78332,Midwest,West North Central
+IA,Iowa,Des Moines,L,408,382,408,"3,190,369",41.591087,-93.603729,Midwest,West North Central
+ID,Idaho,Boise,L,559,428,408,"1,839,106",43.617775,-116.19972,West,Mountain
+VT,Vermont,Montpelier,L,535,474,384,"643,077",44.262436,-72.580536,Northeast,New England
+WY,Wyoming,Cheyenne,L,410,422,372,"576,851",41.140259,-104.82024,West,Mountain
+SD,South Dakota,Pierre,L,424,387,336,"886,667",44.367031,-100.34641,Midwest,West North Central
